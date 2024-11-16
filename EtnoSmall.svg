@@ -1,7 +1,6 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" width="700" height="700"   border: 10px solid #000000;>
 	<title>etnologjik-svg</title>
 	<defs>
-		<image  width="700" height="700" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAArwAAAK8AQMAAAA3dP4AAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAO5JREFUeJztzDEBAAAMAqDZv/QiePlBAHIjEYvFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFjcPOGQCvScBgIoAAAAASUVORK5CYII="/>
 	</defs>
 	<style>
 		.s0 { fill: #ffffff } 
