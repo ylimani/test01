@@ -9,7 +9,7 @@
     .s0 { fill: #ffffff }
   </style>
   <g id="Black">
-    <use id="Layer 1" href="#img1" x="800" y="800"/>
+    <use id="Layer 1" href="#img1" x="900" y="900"/>
   </g>
   <g id="Color">
 
